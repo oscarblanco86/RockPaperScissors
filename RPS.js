@@ -1,9 +1,9 @@
-var icons = ["icons://fa-hand-rock-o"];
+// var icons = ["icons://fa-hand-rock-o"];
 
-var choices =["Rock", "Paper", "Scissors"];
+// var choices =["Rock", "Paper", "Scissors"];
 
-var playerScore = 0;
-var computerScore = 0;
+// var playerScore = 0;
+// var computerScore = 0;
 
 onEven ("paperButton", "click", function(){
     updateScreen("Paper");
